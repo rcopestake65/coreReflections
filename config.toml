@@ -18,7 +18,7 @@ theme = "core_reflections"
 [[menu.main]]
  identifier = "about"
   name = "About Me"
-  url = "https://corereflections.org.uk/#about"
+  url = "#about"
   weight = "2"
 
 [[menu.main]]

@@ -1,4 +1,4 @@
-baseURL = "https://corereflections.org.uk/"
+absURL = "https://corereflections.org.uk/"
 languageCode = "en-us"
 title = "Core Reflections"
 theme = "core_reflections"
@@ -15,10 +15,16 @@ theme = "core_reflections"
   url = "/"
   weight = "1"
 
+  [[menu.main]]
+  identifier = "test"
+  name = "Test"
+  url = "/test/"
+  weight = "1"
+
 [[menu.main]]
  identifier = "about"
   name = "About Me"
-  url = "#about"
+  url = "/#about"
   weight = "2"
 
 [[menu.main]]

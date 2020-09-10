@@ -2,7 +2,7 @@
 title: "Counselling"
 date: 2020-09-05T13:05:19+01:00
 #draft: true
-layout: services
+layout: single
 ---
 ## Counselling
 

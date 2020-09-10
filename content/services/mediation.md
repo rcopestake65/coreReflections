@@ -2,7 +2,7 @@
 title: "Mediation"
 date: 2020-09-05T13:07:53+01:00
 #draft: true
-layout: services
+layout: single
 ---
 
 

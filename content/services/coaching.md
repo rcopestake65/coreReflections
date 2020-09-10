@@ -2,7 +2,7 @@
 title: "Coaching"
 date: 2020-09-05T13:08:03+01:00
 #draft: true
-layout: services
+layout: single
 ---
 
 

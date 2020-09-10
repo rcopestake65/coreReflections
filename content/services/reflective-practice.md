@@ -2,7 +2,7 @@
 title: "Reflective Practice"
 date: 2020-09-05T13:07:41+01:00
 #draft: true
-layout: services
+layout: single
 ---
 
 ## Reflective Practice

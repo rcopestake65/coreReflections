@@ -1,0 +1,98 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Core Reflections"
+theme = "core_reflections"
+[params]
+    description = "Wellbeing services for staff groups and individuals and support services to organisations"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = "1"
+
+[[menu.main]]
+ identifier = "about"
+  name = "About Me"
+  url = "#about"
+  weight = "2"
+
+[[menu.main]]
+  identifier = "services"
+  name = "Services"
+  url = "#services"
+  weight = "3"
+  
+
+
+  [[menu.main]]
+  identifier = "counselling"
+  name = "Counselling"
+  url = "/services/counselling"
+  weight = "1"
+  parent = "services"
+
+  [[menu.main]]
+  identifier = "clinical-supervision"
+  name = "Clinical Supervision"
+  url = "/services/clinical-supervision"
+  weight = "2"
+  parent = "services"
+
+  [[menu.main]]
+  identifier = "staff-groups"
+  name = "Staff Groups"
+  url = "/services/staff-groups"
+  weight = "3"
+  parent = "services"
+
+  [[menu.main]]
+  identifier = "reflective-practice"
+  name = "Reflective Practice"
+  url = "/services/reflective-practice"
+  weight = "4"
+  parent = "services"
+
+  [[menu.main]]
+  identifier = "mediation"
+  name = "Mediation"
+  url = "/services/mediation"
+  weight = "5"
+  parent = "services"
+
+  [[menu.main]]
+  identifier = "coaching"
+  name = "Coaching"
+  url = "/services/coaching"
+  weight = "6"
+  parent = "services"
+
+  [[menu.main]]
+  identifier = "coaching"
+  name = "Coaching"
+  url = "/services/coaching"
+  weight = "6"
+  parent = "services"
+
+[[menu.main]]
+  identifier = "community-development"
+  name = "Community Development"
+  url = "/services/Community Development"
+  weight = "7"
+  parent = "services"
+
+[[menu.main]]
+  identifier = "testimonials"
+  name = "Testimonials"
+  url = "#testimonials"
+  weight = "4"
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "#contact"
+  weight = "5"

@@ -51,3 +51,18 @@ Staff groups that participated in ‘Space to Talk’ are the following.
 - School Health staff groups
 - Teachers
 
+{{< testimonial >}}
+
+### Testimonials
+
+*Pauline has worked with my organisation  for the past 5 years providing coaching to Senior staff within the organisation including the Managing Director and CEO within a private company specialising in the education sector.*
+
+*She has also provided reflective practice and provides a unique blend of expertise and pragmatism with a very business-like approach.*
+
+*Pauline has in depth knowledge of not only her area of expertise but also of the commercial and business world we SME’s operate in.*
+
+*I have no hesitation in recommending Pauline to any company requiring mediation in employee disputes, coaching and mentoring or senior staff and providing reflective practice to all staff.*
+
+*She is fantastic, every company needs Pauline to help them through the day to day pressures and issues of running a business.*
+
+{{< /testimonial >}}

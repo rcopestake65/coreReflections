@@ -488,7 +488,15 @@ ul.sub-menu{
   color: #353535;
   display: none;
 }
-
+.accordion-btn{
+  padding: 5px 10px;
+  background-color: var(--blue);
+  color: #fff;
+  border-radius: 5px;
+}
+.accordion-btn:hover{
+  background-color: var(--blue-hover);
+}
 .accordion-body__contents {
   padding: 1.5em 1.5em;
   font-size: .85em;

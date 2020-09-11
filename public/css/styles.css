@@ -267,7 +267,7 @@ ul.sub-menu{
       top: 0;
       left: 0;
       background: var(--blue);
-      width: 50%;
+      width: 70%;
       /*height: 100%;
       ! border-right: 1px solid #ccc; */
       padding: 30px;
@@ -590,7 +590,8 @@ align-items: center;
 
 /*Twitter Feed*/
 .twitter{
-  width: 50%;
+  width: 60%;
+  margin: 3rem auto;
 }
 @media (max-width: 650px){
   .twitter{

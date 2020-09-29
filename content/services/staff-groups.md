@@ -33,7 +33,7 @@ Staff feedback comments.
 
 ### Space to Talk for Staff Groups
 
-‘Space to Talk’ was developed  as a result of a discussion with a group of Directors who are creative thinkers from a large organisation where they were looking to offer support to front line staff groups in a supportive group environment.  I raised the idea of ‘Space to Talk’, that differs from other kinds of staff support, such as reflective practice
+‘Space to Talk’ was developed  as a result of a discussion with a group of Directors who are creative thinkers from a large organisation where they were looking to offer support to front line staff groups in a supportive group environment.  I raised the idea of ‘Space to Talk’, that differs from other kinds of staff support, such as reflective practice. Space to Talk offers both psychological support for staff wellbeing as well as a space to reflect and think.
 
 With ‘Space to Talk’ staff have an opportunity to talk openly in a confidential space with colleagues and are encouraged to think creatively and collectively in order for the group to find solutions to concerns raised. The group learn to reframe their thinking, and to reflect on their work practices and that of the organisation they work in.
 

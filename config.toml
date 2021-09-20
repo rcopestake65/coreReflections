@@ -87,8 +87,14 @@ theme = "core_reflections"
   url = "#testimonials"
   weight = "4"
 
+  [[menu.main]]
+  identifier = "qualifications"
+  name = "Qualifications"
+  url = "#qualifications"
+  weight = "5"
+
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "#contact"
-  weight = "5"
+  weight = "6"

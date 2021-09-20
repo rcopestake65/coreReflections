@@ -406,7 +406,7 @@ ul.sub-menu{
   color: var(--blue);
 }
 /*ethos*/
-.ethos-container{
+.ethos-container, .qualifications-container{
   background-image: url(/images/ethos-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -416,16 +416,24 @@ ul.sub-menu{
   align-items: center;
   margin-bottom: 2rem;
 }
-.ethos-content{
+
+
+.qualifications-container{
+  background-image: url(/images/qualifications-bg.jpg) !important;
+  color: white;
+}
+
+
+.ethos-content, .qualifications-content{
   padding: 20px;
   background-color: rgba(12,113,195,0.3);
   max-width: 1000px;
   color: #fff;
 }
-.ethos-content h3{
+.ethos-content h3, .qualifications-content h3 {
   color: var(--blue);
 }
-.ethos-content p{
+.ethos-content p, .qualifications-content p{
   font-size: 1.2rem;
   max-width: 80%;
 }

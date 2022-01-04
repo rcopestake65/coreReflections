@@ -5,10 +5,9 @@ date: 2020-09-05T13:08:19+01:00
 layout: single
 ---
 
-
 ## Community Development
 
-Community Development is a powerful tool to support and work with local groups of people to effect social change. For example when crisis/ issues has affected or impacted on their lives, and their community in some way. By encouraging people to actively take part in a group and to work together  they can feel empowered; they will find a shared voice and feel they are being listened to, and importantly that their opinions matter. Depending on the circumstances community groups can influence both local and national thinking, and policy .
+Community Development is a powerful tool to support and work with local groups of people to effect social change. For example when crisis/ issues has affected or impacted on their lives, and their community in some way. By encouraging people to actively take part in a group and to work together they can feel empowered; they will find a shared voice and feel they are being listened to, and importantly that their opinions matter. Depending on the circumstances community groups can influence both local and national thinking, and policy .
 
 Community development is about creating space and opportunities where people are encouraged to actively come together as a group to identify those issues and to feel part of a decision making process . This way of working not only benefits the local community but the people themselves, as they will feel valued and have a new found shared confidence.
 
@@ -20,6 +19,7 @@ Some examples, of those who have benefited from this type of facilitation are; l
 
 ### Testimonials
 
-*The results of many years of Community Development work/engagement a number of groups and organisations continue to be active within the East End in both the Voluntary sector and youth service. A youth project for young people with disabilities and a young people’s counselling service continue to develop and thrive.*
+_The results of many years of Community Development work/engagement a number of groups and organisations continue to be active within the East End in both the Voluntary sector and youth service. A youth project for young people with disabilities and a young people’s counselling service continue to develop and thrive._
 
 {{< /testimonial >}}
+{{< qualifications >}}

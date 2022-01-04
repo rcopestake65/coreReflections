@@ -5,7 +5,6 @@ date: 2020-09-05T13:06:53+01:00
 layout: single
 ---
 
-
 ## Clinical Supervision
 
 Clinical Supervision is offered to professional practitioners. This supports and underpins clinical work and development. It enhances the practitioner’s knowledge by discussing clinical material/ or staffing issues. This is usually when the practitioner brings a Clinical case or /Staffing issue to supervision to discuss and think about in more detail. This could usually entail a range of issues such as Safeguarding, Risk management, Staffing concerns, as well as Clinical client case material and the personal impact the client/staff member is having upon them.
@@ -18,6 +17,8 @@ Supervision contributes to strengthening both the practitioners professional and
 
 ### Testimonials
 
-*Pauline is outstanding as a clinical supervisor. She supported me when working with highly complex clients in a way that gave me a real sense of knowledge and perspective that helped the work. I recommend her highly for her skill and compassion.*
+_Pauline is outstanding as a clinical supervisor. She supported me when working with highly complex clients in a way that gave me a real sense of knowledge and perspective that helped the work. I recommend her highly for her skill and compassion._
 
 {{< /testimonial >}}
+
+{{< qualifications >}}

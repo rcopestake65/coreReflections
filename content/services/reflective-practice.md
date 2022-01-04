@@ -32,17 +32,17 @@ All discussions presented are designed to encourage engagement from every team m
 
 The topics which are discussed within these groups are topics that have previously been agreed upon; these can translate during the sessions as different scenarios or cases which are presented to the group. The materials required for these discussions to take place are usually brought by staff members, as mentioned before, since every staff member is unique, and subsequently each discussion itself bringing new and unique perspectives, it is important the these materials are provided by staff themselves.
 
-
 {{< testimonial >}}
 
 ### Testimonials
 
-*Reflective practice has been invaluable.*
+_Reflective practice has been invaluable._
 
-*I didn’t understand the purpose of this at first but after a few sessions I relaxed and was surprised at what I learned. I never realised that I really never listened to people.*
+_I didn’t understand the purpose of this at first but after a few sessions I relaxed and was surprised at what I learned. I never realised that I really never listened to people._
 
-*This process has been very helpful and enhanced my working practice.*
+_This process has been very helpful and enhanced my working practice._
 
-*Reflective practice has helped us as a team offer more support to each other, and value each other as a group of professional colleagues.*
+_Reflective practice has helped us as a team offer more support to each other, and value each other as a group of professional colleagues._
 
 {{< /testimonial >}}
+{{< qualifications >}}

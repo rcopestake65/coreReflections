@@ -5,7 +5,6 @@ date: 2020-09-05T13:08:03+01:00
 layout: single
 ---
 
-
 ## Coaching
 
 People seeking coaching are usually Managers, Directors, CEOs or Team leaders. Although this can be expanded to other management positions.
@@ -23,6 +22,7 @@ By encouraging creative thinking, working on the professional’s own goals, sol
 
 ### Testimonials
 
-*Being a CEO can be a lonely place but Pauline is an empathetic and imaginative Coach who has enabled me to explore my abilities in a safe and confidential environment.*
+_Being a CEO can be a lonely place but Pauline is an empathetic and imaginative Coach who has enabled me to explore my abilities in a safe and confidential environment._
 
 {{< /testimonial >}}
+{{< qualifications >}}
